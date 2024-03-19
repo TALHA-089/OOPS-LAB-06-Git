@@ -42,5 +42,4 @@ public:
 	{
 		return Publication_year;
 	}
-
 };
